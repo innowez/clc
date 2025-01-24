@@ -43,7 +43,7 @@
                             <h6>IELTS</h6>
                         </div>
                     </div>
-                    <p>Get trained on our world-class IELTS coaching. The program deals with the four modules of Listening, Reading, Writing & Speaking at length and prepares you with the skills as well as strategies that would help you excel. Personalized training and practice sessions help you meet your target band and gain a world of opportunities.</p>
+                    <p>We offer an IELTS course that provides expert guidance and targeted practice to help students achieve their desired scores and succeed in the exam.</p>
                     <a class="mt-auto" href="ielts.php"><h5 class="link"> Read More </h5></a>
                 </div>
             </div>
@@ -57,7 +57,7 @@
                             <h6>OET</h6>
                         </div>
                     </div>
-                    <p>Realize your professional aspirations with our targeted OET tutoring services. Our specialized program for medical professionals boosts their language skills according to medical situations for superior performance in Listening, Reading, Writing, and Speaking modules with expert guidance along with focused practice sessions.</p>
+                    <p>We offer an IELTS course that provides expert guidance and targeted practice to help students achieve their desired scores and succeed in the exam.</p>
                     <a class="mt-auto" href="oet.php"><h5 class="link"> Read More </h5></a>
                 </div>
             </div>
@@ -71,7 +71,7 @@
                             <h6>PTE</h6>
                         </div>
                     </div>
-                    <p>Our PTE coaching prepares you for success by unlocking your potential. The program highly focuses on Speaking, Writing, Reading, and Listening, with strategies for each module. Score well with Personal Guide, mock exams, and sure-shot techniques to do well in the Pearson Test of English.</p>
+                    <p>We offer an IELTS course that provides expert guidance and targeted practice to help students achieve their desired scores and succeed in the exam.</p>
                     <a class="mt-auto" href="pte.php"><h5 class="link"> Read More </h5></a>
                 </div>
             </div>
@@ -85,7 +85,7 @@
                             <h6>German</h6>
                         </div>
                     </div>
-                    <p> A new opportunity is unfolding for the German Language course. For beginners and also for those who wish to improve upon their already learned language skills, this course offers general knowledge from grammar, and vocabulary, to conversational fluency. Expert guidance and interesting lessons make learning German engaging and effective and impart new skills for personal, academic, or professional development.</p>
+                    <p>We offer an IELTS course that provides expert guidance and targeted practice to help students achieve their desired scores and succeed in the exam.</p>
                     <a class="mt-auto" href="german.php"><h5 class="link"> Read More </h5></a>
                 </div>
             </div>
@@ -99,7 +99,7 @@
                             <h6>Spoken English</h6>
                         </div>
                     </div>
-                    <p>Learn how to speak fluently through combining spoken English statements. The actual lesson is aimed at bringing up vocabulary and pronunciation in conversational level. Enhancing fluency in personal, academic, and professional settings with expert guidance and interactive learning methods.</p>
+                    <p>We offer an IELTS course that provides expert guidance and targeted practice to help students achieve their desired scores and succeed in the exam.</p>
                     <a class="mt-auto" href="spoken-english.php"><h5 class="link"> Read More </h5></a>
                 </div>
             </div>

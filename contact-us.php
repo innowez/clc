@@ -27,8 +27,8 @@
             <div class="col-lg-6 d-flex align-items-center">
                 <div class="w-100">
                     <h1 class="font-size-48 color_white">Get In Touch</h1>
-                    <p class="color_white mt-30">We are with you to assist you in your journey towards mastering the language! Be it your queries regarding the courses, or needs
-Let’s connect with us</p>
+                    <p class="color_white mt-30">To learn more about our English Language Programs like Spoken English Classes, IELTS, OET, and PTE at CLC, feel free to call or email us at
+                        <a href="mailto:clcalicut@gmail.com">clcalicut@gmail.com</a>. We will be happy to answer any questions you might have.</p>
                     <div class="w-100 mt-40">
                         <h4 class="color_white fw-SemiBold">Kozhikode Branch</h4>
                         <ul class="branchList">
